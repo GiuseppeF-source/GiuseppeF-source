@@ -39,9 +39,7 @@ That is why I am always looking for new stimuli that give me the opportunity to 
   <img src="https://img.shields.io/badge/VHDL-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/TCL_Scripting%20-%2300599C.svg?&style=for-the-badge&logo=TCL&logoColor=white">
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
-
-  
-
+  <img src="https://img.shields.io/badge/MATLAB-red">
 </div>
 <br/>
 
@@ -57,8 +55,6 @@ That is why I am always looking for new stimuli that give me the opportunity to 
   <img src="https://img.shields.io/badge/XILINX-SDK-red?style=for-the-badge&labelColor=black">
   <br>
   <img src="https://img.shields.io/badge/IBM-Doors-black?style=for-the-badge&labelColor=%2342cef5">
-  
-
 </div>
 <br/>
 
@@ -66,9 +62,7 @@ That is why I am always looking for new stimuli that give me the opportunity to 
 
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
-  
-  
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">  
 </div>
 <br/>
 
