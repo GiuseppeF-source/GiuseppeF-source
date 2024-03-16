@@ -26,6 +26,8 @@ That is why I am always looking for new stimuli that allow me to grow by gaining
 
 
 
+<br>
+<br>
 
 - 🔭 Currently, I am working on the digital design and verification of FPGAs in the space industry.
 - 💬 Feel free to ask me about anything. I am always happy to help.
