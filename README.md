@@ -27,9 +27,9 @@ That is why I am always looking for new stimuli that allow me to grow by gaining
 
 
 
-- 🔭 I’m currently working on the Digital Design and Verification of FPGAs in space sector.
-- 💬 Ask me about anything, I am happy to help;
-- 📫 If you have a project, I'm available to help and also I'm looking for a new opportunities, you can always contact me.
+- 🔭 Currently, I am working on the digital design and verification of FPGAs in the space industry.
+- 💬 Feel free to ask me about anything. I am always happy to help.
+- 📫 If you have a project and need assistance, or if you are looking for new opportunities, please don't hesitate to contact me.
 
 
 ### Languages
