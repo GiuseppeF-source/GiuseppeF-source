@@ -51,7 +51,7 @@ That is why I am always looking for new stimuli that allow me to grow by gaining
   <img src="https://img.shields.io/badge/SIEMENS-QuestaSim-black?style=for-the-badge&labelColor=%230cc">
   <img src="https://img.shields.io/badge/SIEMENS-PRECISION%20RTL-black?style=for-the-badge&labelColor=%230cc">
   <br>
-  <img src="https://img.shields.io/badge/ACTEL-Designer-black?style=for-the-badge&labelColor=blue">
+  <img src="https://img.shields.io/badge/Microchip-Libero IDE-black?style=for-the-badge&labelColor=blue">
   <br>
   <img src="https://img.shields.io/badge/XILINX-VIVADO-yellow?style=for-the-badge&labelColor=black">
   <img src="https://img.shields.io/badge/XILINX-SDK-red?style=for-the-badge&labelColor=black">
@@ -61,8 +61,6 @@ That is why I am always looking for new stimuli that allow me to grow by gaining
 <br/>
 
 <div display="flex">
-
-  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">  
 </div>
