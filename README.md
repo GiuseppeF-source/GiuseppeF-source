@@ -14,7 +14,7 @@
 
 *I am an enthusiastic and highly motivated FPGA Engineer whose interests lie in the field of Digital Design and Verification, however, I am also curious about any electronic fields.*
 
-*With about 3 years of experience in the space industry, I specialize in designing and verifying complex digital FPGA architectures, ensuring their functionality, performance, and reliability.* 
+*With about 4 years of experience in the space industry, I specialize in designing and verifying complex digital FPGA architectures, ensuring their functionality, performance, and reliability.* 
 
 *I have always been dedicated to providing state-of-the-art and innovative solutions in every project I have worked on.*
 
